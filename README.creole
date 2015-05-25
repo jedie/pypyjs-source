@@ -17,6 +17,16 @@ Quick how to use this repro:
 ~/example$ git submodule add https://github.com/jedie/pypyjs-source.git
 }}}
 
+
 ==== Examples
 
 The https://github.com/jedie/pypyjs-examples repository contains some examples.
+
+
+=== What is PyPy.js ?
+
+In short: PyPy compiled to JavaScript
+
+Little bit longer: PyPy.js is an experiment in building a fast and compliant in-browser python interpreter, by compiling PyPy into javascript and retargeting its JIT to emit javascript code at runtime.
+
+More info: http://pypyjs.org/
