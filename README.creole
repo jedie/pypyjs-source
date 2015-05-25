@@ -1,0 +1,6 @@
+
+=== PyPy.js source
+
+This git repository is only a mirror with the latest content of: https://github.com/rfk/pypyjs/releases
+
+The existing **index.html** is only a minimal example to run PyPy.js. You can try it out here: https://jedie.github.io/pypyjs-source/
